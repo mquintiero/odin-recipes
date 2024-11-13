@@ -1,0 +1,13 @@
+* {
+    font-family: Arial, Verdana, Tahoma;
+}
+
+#main-title {
+    text-align: center;
+    background-color: rgba(0, 0, 255, 0.808);
+    color: white;
+}
+
+ul {
+    color: rgba(0, 0, 255, 0.808);
+}
